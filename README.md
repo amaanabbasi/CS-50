@@ -4,4 +4,5 @@
 
 - [X] Check whether the answer is right or wrong.
 - [X] Saving the state into localStorage.
-- [ ] Reset Button.
+- [X] Reset the Game.
+
