@@ -1,0 +1,17 @@
+body {
+    text-align : center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18 px;
+
+}
+
+button {
+            margin : 15px;
+            padding : 5px;
+        }
+
+button:hover {
+    color : #756e6e;
+    background-color: aliceblue;
+}        
+
